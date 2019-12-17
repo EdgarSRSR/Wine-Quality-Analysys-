@@ -11,5 +11,5 @@ This repository has to main files:
 
 - <h1>Wine Quality Predictions.ipynb</h1> The document for the jupyter notebook implementation of the analysis.
 
-Click on the button below to launch the jupyter notebook implementation of the Quality Analysis:
+Click on the button to use binder to launch the jupyter notebook implementation of the Quality Analysis:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EdgarSRSR/Wine-Quality-Analysys-/master)
